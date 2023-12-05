@@ -1,6 +1,6 @@
 # Spyware
 
-Hey you all this is Ashutosh Behera. I have developed this advanced spyware tool to demonstrate the working of the spyware and how it tries to steal user's data.
+Hey you all this is Clyde. I have developed this advanced spyware tool to demonstrate the working of the spyware and how it tries to steal user's data.
 
 DISCLAMIER
 
@@ -22,3 +22,4 @@ WHAT ARE THE FEATURES OF THIS CODE
 
 (5)Finally take a screenshot when you stop the program.
 
+Code by clyde (TEAM 4)
